@@ -1,4 +1,4 @@
-20252785626662114
+20247782787600790
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -53080,20 +53080,6 @@ heatsink
 0
 2
 1
-IMU-Sensors
-BMM150
-
-
-0
-12
-12
-IMU-Sensors
-LSM6DSMTR
-
-
-0
-14
-14
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -76845,13 +76831,6 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
-Regulators
-SPX1117M3-L-3-3&slash_TR
-
-
-0
-4
-4
 Relay_SMD
 Relay_2P2T_10x6mm_TE_IMxxG
 Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf
